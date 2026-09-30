@@ -1,0 +1,4 @@
+Model,CV RMSE,Best Parameters
+Random Forest,0.6395357588547516,"{'max_depth': None, 'max_features': 0.7, 'min_samples_leaf': 4, 'n_estimators': 200}"
+XGBoost,0.6459873795509339,"{'colsample_bytree': 1.0, 'learning_rate': 0.01, 'max_depth': 4, 'min_child_weight': 5, 'n_estimators': 300, 'subsample': 0.8}"
+Gradient Boosting,0.6494932213500975,"{'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 4, 'n_estimators': 300}"

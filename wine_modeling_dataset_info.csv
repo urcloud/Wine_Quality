@@ -1,0 +1,4 @@
+Dataset,Samples,Removed,Remaining Ratio (%)
+Original,951,0,100.0
+IQR Removed,719,232,75.60462670872765
+AE Removed,931,20,97.89695057833859
